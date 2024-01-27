@@ -7,7 +7,7 @@
 -------
 
 - 🔭 I’m currently working on **aoc, a chess engine...**
-- 🌱 I’m currently learning **Odin, LÖVE, Sveltekit**
+- 🌱 I’m currently learning **Odin, raylib, Sveltekit**
 - 💬 Ask me about **anything**
 - 👯 I’m looking to collaborate on **projects that have a real impact**
 - ⚡ Fun fact, **you might be drinking water that is older than the solar system!**
@@ -24,6 +24,3 @@
 <p align="left">Linux | KDE | Fish | Neovim | Podman | Git</p>
 
 -------
-
-<p><img align="left" src="https://readme-stats-alexmet.vercel.app/api?username=alexmet&show_icons=true&locale=en" alt="alexmet-stats" /></p>
-<p><img align="left" src="https://readme-stats-alexmet.vercel.app/api/top-langs?username=alexmet&show_icons=true&locale=en&layout=compact" alt="alexmet-languages" /></p>
